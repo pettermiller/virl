@@ -5,4 +5,6 @@
     <node name="iosv-3" type="SIMPLE" subtype="IOSv" location="354,165"/>
     <node name="iosv-4" type="SIMPLE" subtype="IOSv" location="466,287"/>
     <node name="iosv-5" type="SIMPLE" subtype="IOSv" location="579,178"/>
+    <node name="iosv-6" type="SIMPLE" subtype="IOSv" location="766,344"/>
+    <node name="iosv-7" type="SIMPLE" subtype="IOSv" location="237,429"/>
 </topology>
