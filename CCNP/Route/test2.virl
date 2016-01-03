@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<topology xmlns="http://www.cisco.com/VIRL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="0.9" xsi:schemaLocation="http://www.cisco.com/VIRL https://raw.github.com/CiscoVIRL/schema/v0.9/virl.xsd">
+    <node name="iosv-1" type="SIMPLE" subtype="IOSv" location="66,142"/>
+    <node name="iosv-2" type="SIMPLE" subtype="IOSv" location="179,278"/>
+    <node name="iosv-3" type="SIMPLE" subtype="IOSv" location="354,165"/>
+    <node name="iosv-4" type="SIMPLE" subtype="IOSv" location="466,287"/>
+    <node name="iosv-5" type="SIMPLE" subtype="IOSv" location="579,178"/>
+    <node name="iosv-6" type="SIMPLE" subtype="IOSv" location="766,344"/>
+    <node name="iosv-7" type="SIMPLE" subtype="IOSv" location="237,429"/>
+</topology>
